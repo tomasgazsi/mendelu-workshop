@@ -87,3 +87,6 @@ to your container application. You can play with `cgi-bin/form.py/?value=<XX>`
 and `cgi-bin/display.py` URLs.
 
 Bonus: Fix the bug that was shown during introduction/demo
+
+moj prvy riadok 
+moj druhy riadok
